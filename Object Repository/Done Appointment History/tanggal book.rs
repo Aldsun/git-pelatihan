@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tanggal book</name>
+   <tag></tag>
+   <elementGuidId>da2a02d1-5b90-4277-b398-04cd2b48fd06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='history']/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>433514d2-0363-4128-a89a-869db851006b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-heading</value>
+      <webElementGuid>7a47ce7d-b6ab-44a9-b4d2-2b75f6808db3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>25/10/2022</value>
+      <webElementGuid>ee84791b-129b-48e3-a5fe-260a031e0bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;history&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-offset-2 col-sm-8&quot;]/div[@class=&quot;panel panel-info&quot;]/div[@class=&quot;panel-heading&quot;]</value>
+      <webElementGuid>6607aea2-75fb-4047-8eb8-c6a61440338e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='history']/div/div[2]/div/div/div</value>
+      <webElementGuid>f2b282aa-5794-4189-bc99-cfdd3f474be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[2]/following::div[4]</value>
+      <webElementGuid>67c74b59-15d2-4a12-b462-c75fb0e1a900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::div[7]</value>
+      <webElementGuid>02cb879b-e789-49c1-9156-e83d9897ef8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/preceding::div[1]</value>
+      <webElementGuid>5aa0fec5-c8e5-4ef7-8f90-6488b6d41f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply for hospital readmission'])[1]/preceding::div[4]</value>
+      <webElementGuid>0cea7bb4-09ce-4e3c-b351-d58bd1945555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='25/10/2022']/parent::*</value>
+      <webElementGuid>b2c6bbb2-0ff0-4436-a8af-2bbe6f77c39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>14f2b91c-243c-49d6-8059-879dd42ac541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '25/10/2022' or . = '25/10/2022')]</value>
+      <webElementGuid>f17f3a66-2585-48f2-b069-b6f5842ef943</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
